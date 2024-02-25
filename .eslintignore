@@ -1,0 +1,8 @@
+/*.js
+
+.next
+.yarn
+
+dist
+build
+node_modules

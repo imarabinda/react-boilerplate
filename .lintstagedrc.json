@@ -1,0 +1,3 @@
+{
+  "src/**/*.{json,js,ts,jsx,tsx,html}": ["prettier --write --ignore-unknown"]
+}
